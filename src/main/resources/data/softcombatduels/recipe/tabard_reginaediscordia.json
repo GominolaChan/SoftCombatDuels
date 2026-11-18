@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": ["minecraft:light_blue_wool", "minecraft:white_wool", "minecraft:string"],
+  "result": { "id": "softcombatduels:tabard_reginaediscordia", "count": 1 }
+}

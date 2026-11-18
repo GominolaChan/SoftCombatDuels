@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": ["#minecraft:wool", "#minecraft:wool", "minecraft:stick"],
+  "result": { "id": "softcombatduels:boffer_short_sword", "count": 1 }
+}

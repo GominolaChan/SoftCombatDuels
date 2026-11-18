@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": ["#minecraft:wool", "#minecraft:wool", "#minecraft:wool", "#minecraft:wool", "minecraft:stick", "minecraft:stick"],
+  "result": { "id": "softcombatduels:boffer_greatsword", "count": 1 }
+}

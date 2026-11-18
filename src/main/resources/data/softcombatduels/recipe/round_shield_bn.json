@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "softcombatduels:round_shield",
+    "minecraft:white_wool",
+    "minecraft:black_wool"
+  ],
+  "result": {
+    "id": "softcombatduels:round_shield_bn",
+    "count": 1
+  }
+}

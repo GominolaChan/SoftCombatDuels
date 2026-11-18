@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "softcombatduels:round_shield",
+    "minecraft:cyan_wool",
+    "minecraft:white_wool"
+  ],
+  "result": {
+    "id": "softcombatduels:round_shield_ironheim",
+    "count": 1
+  }
+}

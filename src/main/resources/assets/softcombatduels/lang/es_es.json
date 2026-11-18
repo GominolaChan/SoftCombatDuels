@@ -1,0 +1,22 @@
+{
+  "item.softcombatduels.boffer_dagger": "Daga Boffer",
+  "item.softcombatduels.boffer_short_sword": "Espada corta Boffer",
+  "item.softcombatduels.boffer_bastard_sword": "Espada bastarda Boffer",
+  "item.softcombatduels.boffer_greatsword": "Mandoble Boffer",
+  "item.softcombatduels.boffer_qtip": "Q-Tip Boffer",
+  "item.softcombatduels.boffer_spear": "Lanza Boffer",
+  "item.softcombatduels.round_shield": "Escudo redondo",
+  "item.softcombatduels.tabard_reginaediscordia": "Tabardo ReginaeDiscordia",
+  "item.softcombatduels.tabard_rn": "Tabardo RN",
+  "item.softcombatduels.tabard_templario": "Tabardo Templario",
+  "item.softcombatduels.tabard_vn": "Tabardo VN",
+  "item.softcombatduels.tabard_bn": "Tabardo BN",
+  "item.softcombatduels.tabard_ironheim": "Tabardo Ironheim",
+  "itemGroup.softcombatduels": "SoftCombat Duels",
+  "item.softcombatduels.round_shield_reginaediscordia": "Escudo redondo ReginaeDiscordia",
+  "item.softcombatduels.round_shield_rn": "Escudo redondo RN",
+  "item.softcombatduels.round_shield_templario": "Escudo redondo Templario",
+  "item.softcombatduels.round_shield_vn": "Escudo redondo VN",
+  "item.softcombatduels.round_shield_bn": "Escudo redondo BN",
+  "item.softcombatduels.round_shield_ironheim": "Escudo redondo Ironheim"
+}

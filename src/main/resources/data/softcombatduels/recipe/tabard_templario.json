@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": ["minecraft:white_wool", "minecraft:red_dye", "minecraft:string"],
+  "result": { "id": "softcombatduels:tabard_templario", "count": 1 }
+}

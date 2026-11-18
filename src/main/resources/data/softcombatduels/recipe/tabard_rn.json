@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": ["minecraft:red_wool", "minecraft:black_wool", "minecraft:string"],
+  "result": { "id": "softcombatduels:tabard_rn", "count": 1 }
+}

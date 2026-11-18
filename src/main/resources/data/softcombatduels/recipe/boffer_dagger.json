@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": ["#minecraft:wool", "minecraft:stick"],
+  "result": { "id": "softcombatduels:boffer_dagger", "count": 1 }
+}
